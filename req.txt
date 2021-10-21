@@ -26,7 +26,9 @@ jupyter-client==7.0.6
 jupyter-core==4.8.1
 jupyterlab-pygments==0.1.2
 jupyterlab-widgets==1.0.2
+jupyterthemes==0.20.0
 kiwisolver==1.3.2
+lesscpy==0.15.0
 MarkupSafe==2.0.1
 matplotlib==3.4.3
 matplotlib-inline==0.1.3
@@ -49,6 +51,7 @@ phik==0.12.0
 pickleshare==0.7.5
 Pillow==8.4.0
 plotly==5.3.1
+ply==3.11
 prometheus-client==0.11.0
 prompt-toolkit==3.0.20
 pycparser==2.20
